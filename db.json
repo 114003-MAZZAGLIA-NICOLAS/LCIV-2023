@@ -1,7 +1,6 @@
 {
   "cursos": [
     { "id": "1", "title": "Curso Mañana", "q_alumnos": 50 },
-    { "id": "2", "title": "Curso Tarde", "q_alumnos": 46 },
-    { "id": "3", "title": "Curso Noche", "q_alumnos": 80 }
+    { "id": "2", "title": "Curso Tarde", "q_alumnos": 46 }
   ]
 }
