@@ -1,12 +1,17 @@
-[
-  {
-    "q_alumnos": 50,
-    "id": "2w1",
-    "title": "Curso Tarde"
-  },
-  {
-    "q_alumnos": 46,
-    "id": "2w2",
-    "title": "Curso Noche"
-  }
-]
+{
+  "cursos": 
+  		[
+    {
+      "q_alumnos": 50,
+      "id": 2w1,
+      "title": "Curso Tarde"
+      
+    },
+    {
+      "q_alumnos": 85,
+      "id": 2w2,
+      "title": "Curso Noche"
+      
+    }
+  ]  
+}
