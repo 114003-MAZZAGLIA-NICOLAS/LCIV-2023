@@ -3,12 +3,12 @@
   [
     {
       "id": "2w1",
-      "title": "hello",
+      "title": "Turno Tarde",
       "q_alumnos": 108
     },
     {
       "id": "2w2",
-      "title": "hello",
+      "title": "Turno Noche",
       "q_alumnos": 255
     }
   ]
