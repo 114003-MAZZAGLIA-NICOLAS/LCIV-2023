@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "cursos": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 2w1,
+      "title": "hello",
+      "q_alumnos": 108
+    },
+    {
+      "id": 2w2,
+      "title": "hello",
+      "q_alumnos": 255
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
