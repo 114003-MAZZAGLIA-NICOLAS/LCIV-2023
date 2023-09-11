@@ -1,13 +1,13 @@
 {
   "sueldos": [
     {
-      "id": 1,
-      "title": "Curso Mañana",
+      "id": 2w1,
+      "title": "Curso Tarde",
       "q_alumnos": 50
     },
     {
-      "id": 1,
-      "title": "Curso Tarde",
+      "id": 2w2,
+      "title": "Curso Noche",
       "q_alumnos": 85
     }
   ]  
